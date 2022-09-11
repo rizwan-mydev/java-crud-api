@@ -20,7 +20,6 @@ The latest docker image can be found at https://hub.docker.com/r/clh7090/movieap
 
 ---
 
-
 ### How to run it?
 
 the entire application can be run with a single command in a terminal:
@@ -35,3 +34,5 @@ If you want to stop the application use following command:
 $ docker-compose down
 ```
 ---
+
+### @author Connor Hunter
